@@ -1,1 +1,3 @@
-streamlit run "C:\Users\6shiv\Desktop\Multiple disease prediction Model\Multi Disease prediction Mode.py"
+streamlit run "C:\Users\6shiv\Desktop\Multiple disease prediction Model\Multi Disease prediction Mode.py" - to run on local host i.e. system cmd.
+
+for running through server githu dev command will be 'streamlit run "/workspaces/Multiple-Disease-Prediction-Model/Multiple disease prediction Model/App.py" '. 
